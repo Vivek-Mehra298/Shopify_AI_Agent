@@ -10,7 +10,7 @@ import ProductDetail from "./pages/ProductDetail.tsx";
 import About from "./pages/About.tsx";
 import Research from "./pages/Research.tsx";
 import NotFound from "./pages/NotFound.tsx";
-import AgentRunner from "@/components/AgentRunner";
+import AgentRunner from "@/components/agent-runner";
 
 const queryClient = new QueryClient();
 
